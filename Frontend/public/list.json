@@ -1,0 +1,155 @@
+[
+    {
+        "id":1,
+        "name":"StoryBook",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 2,
+        "name": "E-Book",
+        "title":"Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Classic Novels",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Children's Stories",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Poetry Collection",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Fantasy Adventures",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Mystery Tales",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Historical Biographies",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Science Fiction Collection",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Romantic Novels",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Cooking Recipes",
+        "title": "Explore delicious recipes from around the world with this comprehensive cookbook.",
+        "price": 15.99,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Travel Guides",
+        "title": "Discover hidden gems and travel tips with these essential travel guides.",
+        "price": 12.49,
+        "category": "Travel",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 13,
+        "name": "Fitness Training",
+        "title": "Achieve your fitness goals with expert advice and workout routines.",
+        "price": 9.99,
+        "category": "Fitness",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 14,
+        "name": "Art History",
+        "title": "Explore the evolution of art through the ages with these insightful essays.",
+        "price": 19.99,
+        "category": "Art",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 15,
+        "name": "Self-Help",
+        "title": "Transform your life with these practical self-improvement strategies.",
+        "price": 14.99,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 16,
+        "name": "Science Fiction",
+        "title": "Embark on thrilling adventures across galaxies with these futuristic tales.",
+        "price": 8.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 17,
+        "name": "History",
+        "title": "Delve into the rich tapestry of human history with these captivating narratives.",
+        "price": 11.99,
+        "category": "Non-Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+   
+    {
+        "id": 19,
+        "name": "Fantasy",
+        "title": "Escape into enchanting realms filled with magic and mythical creatures.",
+        "price": 7.99,
+        "category": "Fiction",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    },
+    {
+        "id": 20,
+        "name": "Health & Wellness",
+        "title": "Improve your well-being with these comprehensive health guides and tips.",
+        "price": 13.99,
+        "category": "Health",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718695022~exp=1718698622~hmac=a725b0e24c7fed7e1d5e1ab2dc09d06bd0719ebabe4c33fe1a469c74eef47681&w=740"
+    }   
+]
